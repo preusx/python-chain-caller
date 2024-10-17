@@ -39,7 +39,7 @@ __version__ = get_version()
 
 
 setup(
-    name='Chain Caller',
+    name='px-chain-caller',
     license='MIT',
     version=__version__,
     description='Simple utility for lazy call chain resolving',
