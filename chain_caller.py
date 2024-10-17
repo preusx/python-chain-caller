@@ -1,4 +1,4 @@
-__version__ = '1.0.0'
+__version__ = '1.0.2'
 
 from functools import reduce
 from collections import UserDict, UserList
